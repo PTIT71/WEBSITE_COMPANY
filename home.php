@@ -174,7 +174,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col text-center">
-									<div class="home_slider_title">Hệ thống theo dỏi đơn hàng</div>
+									<div class="home_slider_title">HỆ THỐNG THEO DỎI SẢN XUẤT</div>
 									<div class="home_slider_form_container">
 										<form action="/production-management-tracking" id="home_search_form_2" class="home_search_form d-flex flex-lg-row flex-column align-items-center justify-content-between">
 											<button type="submit" style="margin: auto;" class="home_search_button">Xem chi tiết</button>
