@@ -154,7 +154,7 @@
 			<div class="row">
 
 				<!-- Course -->
-				<div class="col-lg-9">
+				<div class="col-lg-12">
 					
 					<div class="course_container">
 						<div class="course_title">PMT - Production Management Tracking</div>
@@ -176,7 +176,7 @@
 				</div>
 
 				<!-- Course Sidebar -->
-				<div class="col-lg-3">
+				<div class="col-lg-6">
 					<div class="sidebar">
 						<!-- Feature -->
 						<div class="sidebar_section">
