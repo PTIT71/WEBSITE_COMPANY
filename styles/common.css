@@ -1,0 +1,36 @@
+.blue_customize_background
+{
+	background-color: #007bff !important;
+}
+.blue_customize_color
+{
+	color: #007bff !important;
+}
+.paragraph_customize_18
+{
+	font-size: 18px;
+	text-align: justify;
+}
+.course_col_customize
+{
+	margin-top:10px;
+}
+.background-title-frame
+{
+	color: white;
+	background: rgb(245,246,247);
+background: linear-gradient(45deg, rgba(245,246,247,1) 0%, rgba(0,159,255,1) 12%, rgba(0,159,255,1) 88%, rgba(243,243,249,1) 100%);
+}
+
+.ams-title
+{
+	background-color: green;
+	color: white;
+	width:100%;
+	font-size: 20px;
+	padding:5px;
+	font-weight: 700;
+	text-align: center;
+	margin: 5px;
+
+}
