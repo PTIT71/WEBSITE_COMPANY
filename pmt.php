@@ -259,11 +259,11 @@
 									<div class="footer_title">Ghé thăm:</div>
 									<div class="footer_links_container">
 										<ul>
-											<li><a href="index.html">Trang chủ</a></li>
-											<li><a href="about.html">Sản phẩm</a></li>
-											<li><a href="contact.html">Giới thiệu</a></li>
-											<li><a href="#">Tầm nhìn</a></li>
-											<li><a href="courses.html">Liên hệ</a></li>
+											<li><a href="/home">Trang chủ</a></li>
+											<li><a href="/production">Sản phẩm</a></li>
+											<li><a href="/introduction">Giới thiệu</a></li>
+											<li><a href="/vision">Tầm nhìn</a></li>
+											<li><a href="/contact">Liên hệ</a></li>
 										</ul>
 									</div>
 								</div>
