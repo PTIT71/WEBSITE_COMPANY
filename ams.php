@@ -369,7 +369,7 @@ nghiệp mẹ và con. </p>
 					<div class="sidebar">
 						<!-- Feature -->
 						<div class="sidebar_section">
-							<div class="sidebar_section_title">RELATED NEWS</div>
+							<div class="sidebar_section_title">THÔNG TIN LIÊN QUAN</div>
 							
 
 							

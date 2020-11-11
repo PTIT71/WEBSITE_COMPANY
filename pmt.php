@@ -159,15 +159,15 @@
 					<div class="course_container">
 						<div class="course_title">PMT - Production Management Tracking</div>
 						<div class="course_text">
-								<p  class="paragraph_customize_18">PMT - Production Management Tracking  is a software product suitable for all business enterprises. The system supports solutions to manage order progress, update real-time, set up warning reports. Help businesses focus the best resources to execute orders effectively to bring the best products to customers.</p>
+								<p  class="paragraph_customize_18">PMT - Production Management Tracking .Theo dõi quản lý sản xuất là sản phẩm phần mềm phù hợp với các doanh nghiệp kinh doanh quản lý đơn hàng. Hệ thống hỗ trợ giải pháp quản lý tiến độ đơn hàng, cập nhật thời gian thực, thiết lập báo cáo cảnh báo. Giúp doanh nghiệp tập trung nguồn lực tốt nhất để thực hiện đơn hàng một cách hiệu quả nhằm mang đến sản phẩm tốt nhất cho khách hàng.</p>
 							</div>
 							<img src="images/img/pmt.png" alt="" style="margin: auto; width:400px; display: block;">
 					<div class="course_text">
-								<p  class="paragraph_customize_18">The friendly interface is suitable for many devices that can be accessed remotely via the internet system</p>
+								<p  class="paragraph_customize_18">Hệ thống AMS được thiết kế với giao diện thân thiện người dùng. Tương thích với nhiều loại thiết bị màn hình khác nhau:</p>
 							</div>
 							<img src="images/img/multiPmt.png" alt="" style="margin: auto; width:100%; display: block;">
 						<div class="course_text">
-								<p  class="paragraph_customize_18">Feature of PMT</p>
+								<p  class="paragraph_customize_18">Tổ chức chức năng của hệ thống quản lý theo dỏi sản xuất</p>
 							</div>
 							<img src="images/img/featurePmt.png" alt="" style="margin: auto; width:100%; display: block;">
 
@@ -180,7 +180,7 @@
 					<div class="sidebar">
 						<!-- Feature -->
 						<div class="sidebar_section">
-							<div class="sidebar_section_title">RELATED NEWS</div>
+							<div class="sidebar_section_title">THÔNG TIN LIÊN QUAN</div>
 							
 						
 							
