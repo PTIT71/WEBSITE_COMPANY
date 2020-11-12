@@ -19,6 +19,12 @@ if(isset($_GET["production"]))
 	return;
 
 }
+if(isset($_GET["introduction"]))
+{
+	require_once('introduction.php');
+	return;
+
+}
 
 if(isset($_GET["home"]))
 {

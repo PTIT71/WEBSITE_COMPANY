@@ -25,7 +25,7 @@ RewriteRule ^home?$ /?home [L]
 RewriteRule ^vision?$ /?home [L]
 
 
-RewriteRule ^introduction?$ /?home [L]
+RewriteRule ^introduction?$ /?introduction [L]
 RewriteRule ^contact?$ /?home [L]
 
 
