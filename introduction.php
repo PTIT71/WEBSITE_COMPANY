@@ -247,7 +247,7 @@
                   </div>
                   <div class="row features_row">
                      <!-- Features Item -->
-                     <div class="col-lg-3 ">
+                     <div class="col-lg-3 " style="text-align: center;">
                         <img src="images/img/thinhpvp.png" style="height: 400px;">
                      </div>
                      <!-- Features Item -->
@@ -264,7 +264,7 @@
                   	 <div class="row">
                      <div class="col">
                         <div class="section_title_container text-center">
-                           <h2 class="section_title">VINH DỰ PHỤC VỤ KHÁCH HÀNG</h2>
+                           <h2 class="section_title" style="margin-top: 30px;">VINH DỰ PHỤC VỤ KHÁCH HÀNG</h2>
                         </div>
                         <div>
                         </div>
@@ -272,19 +272,19 @@
                   </div>
                   <div class="row features_row">
                      <!-- Features Item -->
-                     <div class="col-lg-3 ">
+                     <div class="col-lg-3 " style="text-align: center; padding: 5px;" >
                         <img src="images/img/vtec.png" >
                      </div>
                       <!-- Features Item -->
-                     <div class="col-lg-3 ">
+                     <div class="col-lg-3 "  style="text-align: center; padding: 5px;" >
                         <img src="images/img/hainam.png" style="width:237px;">
                      </div>
                       <!-- Features Item -->
-                     <div class="col-lg-3 ">
+                     <div class="col-lg-3 "  style="text-align: center; padding: 5px;" >
                         <img src="images/img/alled.jpg"  style="width:237px;" >
                      </div>
                       <!-- Features Item -->
-                     <div class="col-lg-3 ">
+                     <div class="col-lg-3 "  style="text-align: center; padding: 5px;" >
                         <img src="images/img/indruino.png"  style="width:237px;">
                      </div>
                      
