@@ -236,6 +236,7 @@
                         </div>
                      </div>
                   </div>
+                  <!--
                   <div class="row">
                      <div class="col">
                         <div class="section_title_container text-center">
@@ -247,18 +248,18 @@
                   </div>
                   <div class="row features_row">
                      <!-- Features Item -->
-                     <div class="col-lg-3 " style="text-align: center;">
+                   <!--   <div class="col-lg-3 " style="text-align: center;">
                         <img src="images/img/thinhpvp.png" style="height: 400px;">
                      </div>
-                     <!-- Features Item -->
-                     <div class="col-lg-6 feature_col">
+                   <!--   <!-- Features Item -->
+                   <!--   <div class="col-lg-6 feature_col">
                         <h3 class="feature_title" style="bottom: 0px; color: red;">KINGSLEY PHAN</h3>
                         <h3 class="feature_title" style="bottom: 0px; margin-top: 5px;">Quản lý và điều hành nhóm phát triển</h3>
                         <div class="feature_text" style="padding-left:31px;">
                            <p>Trực tiếp tham gia quản lý và phát triển dự án hệ thống phần mềm</p>
                         </div>
                      </div>
-                  </div>
+                  </div>-->
 
 
                   	 <div class="row">
