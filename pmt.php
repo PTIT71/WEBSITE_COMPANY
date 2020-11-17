@@ -243,7 +243,7 @@
 									<div class="footer_title">Thông tin liên hệ</div>
 									<div class="footer_contact_info">
 										<ul>
-											<li>Email: professionaltechnologysolution@gmail.com</li>
+											<li>Email: professional.technlg.solutions@gmail.com</li>
 											<li>Phone:  +84 975 339 843</li>
 											<li>Thành phố Hồ Chí Minh, Việt Nam</li>
 										</ul>
