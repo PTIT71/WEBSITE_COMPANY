@@ -37,7 +37,7 @@
 									</li>-->
 									<li>
 										<i class="fa fa-envelope-o" aria-hidden="true"></i>
-										<div>profestechsolution@gmail.com</div>
+										<div>professional.technlg.solutions@gmail.com</div>
 									</li>
 								</ul>
 								<div class="top_bar_login ml-auto">
