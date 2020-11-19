@@ -205,7 +205,7 @@
 						<h2 class="section_title">HƯỚNG PHÁT TRIỂN</h2>
 					</div>
 					<div>
-						<div class="section_subtitle" ><p class="paragraph_customize_18"><span class="blue_customize_color">Việc xây dựng nhóm phát triển phần mềm PTS với tiêu chí: "Hổ trợ khách hàng tối ưu hóa quá trình sản xuất và kinh doanh là niềm hạnh phúc lớn đối với chúng tôi." được đưa lên hàng đầu. Tiến đến một môi trường làm việc hiệu quả và năng động trong doanh nghiệp của các bạn với sự hổ trợ của các phải pháp phần cứng và phần mềm.</p></div>
+						<div class="section_subtitle" ><p class="paragraph_customize_18">Việc xây dựng nhóm phát triển phần mềm PTS với tiêu chí:<span style="font-weight: 700" class="blue_customize_color"> "Hổ trợ khách hàng tối ưu hóa quá trình sản xuất và kinh doanh là niềm hạnh phúc lớn đối với chúng tôi."</span> được đưa lên hàng đầu. Tiến đến một môi trường làm việc hiệu quả và năng động trong doanh nghiệp của các bạn với sự hổ trợ của các phải pháp phần cứng và phần mềm.</p></div>
 					</div>
 				</div>
 			</div>
