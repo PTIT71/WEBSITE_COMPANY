@@ -25,6 +25,18 @@ if(isset($_GET["introduction"]))
 	return;
 
 }
+if(isset($_GET["vision"]))
+{
+	require_once('vision.php');
+	return;
+
+}
+if(isset($_GET["contact"]))
+{
+	require_once('contact.php');
+	return;
+
+}
 
 if(isset($_GET["home"]))
 {

@@ -22,11 +22,11 @@ RewriteRule ^production?$ /?production [L]
 
 RewriteRule ^home?$ /?home [L]
 
-RewriteRule ^vision?$ /?home [L]
+RewriteRule ^vision?$ /?vision [L]
 
 
 RewriteRule ^introduction?$ /?introduction [L]
-RewriteRule ^contact?$ /?home [L]
+RewriteRule ^contact?$ /?contact [L]
 
 
 
