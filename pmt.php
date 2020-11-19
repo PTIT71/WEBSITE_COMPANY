@@ -171,6 +171,11 @@
 							</div>
 							<img src="images/img/featurePmt.png" alt="" style="margin: auto; width:100%; display: block;">
 
+						<div class="course_text">
+								<p  class="paragraph_customize_18">Hệ thống tích hợp các thiết bị IOT để kết nối dữ liệu giữa nhà máy và phòng quản lý thông qua internet:</p>
+							</div>
+							<img src="images/img/pmt_using.png" alt="" style="margin: auto; width:100%; display: block; margin-top:10px; margin-bottom:10px;">
+
 						
 					</div>
 				</div>
